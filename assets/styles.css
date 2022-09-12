@@ -11,10 +11,10 @@ hr {
 }
 
 .purple-icon {
-    background: #d8d4f1;
+    background: rgb(216, 212, 241);
     padding: 10px;
     border-radius: 20px;
-    color: #422fbd;
+    color: rgb(66, 47, 189);
 }
 
 .inline {
